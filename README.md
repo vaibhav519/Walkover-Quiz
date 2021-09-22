@@ -53,6 +53,8 @@ Deployed Version - http://walkover-quiz.epizy.com/
 1.This application is been hosted on a free hosting platform called `infintyfree`.
 
 # Team:
-`Tabish` - https://github.com/MOHAMMAD-TABISH
-`Sneh` - https://github.com/JoshiSneh
+`Tabish` - https://github.com/MOHAMMAD-TABISH.
+
+`Sneh` - https://github.com/JoshiSneh.
+
 `Mahtab` - 
