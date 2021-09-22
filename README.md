@@ -13,7 +13,7 @@ An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support al
 
 # Setup:
 
-1.Clone the repository in your local system.git clone - https://github.com/JoshiSneh/Walkover-Quiz.git 
+ 1.Clone the repository in your local system.git clone - https://github.com/JoshiSneh/Walkover-Quiz.git 
 
 2. Create a new database in MySQL using phpmyadmin.
 
