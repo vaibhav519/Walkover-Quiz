@@ -35,4 +35,7 @@ An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support al
     `git push [url to your repository] main.`
 6. Now your commit will be successfully pushed to the main branch of your GitHub repository.
 
-
+# Tech Stack Used:
+1. `Frontend`: HTML, CSS, Bootstrap.
+2. `Backend`: PHP.
+3. `Database`: MySQL.
