@@ -1,5 +1,6 @@
 # Walkover Quiz
 An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support along with Admin Panel
+Deployed Version - `http://walkover-quiz.epizy.com/`
 
 # Features: 
 
@@ -41,4 +42,4 @@ An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support al
 3. `Database`: MySQL.
 
 # Deployment:
-This application is been hosted on a free hosting platform called `infintyfree`.
+1.This application is been hosted on a free hosting platform called `infintyfree`.
