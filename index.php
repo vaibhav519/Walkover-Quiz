@@ -55,7 +55,7 @@ if (isset($_SESSION['username']) && (!isset($_SESSION['key']))) {
         return false;
       }
       if (rn[2] != "12" && rn[2] != "13" && rn[2] != "14" && rn[2] != "15" && rn[2] != "16") {
-        document.getElementById("errormsg").innerHTML = "Incorrect Rollno " + rn[2];
+        document.getElementById("errormsg").innerHTML = "Incorrect Rollno " + rn[2] + " ( Range from 12 to 16 )";
         return false;
       }
       var g = document.forms["form"]["gender"].value;
