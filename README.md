@@ -39,3 +39,6 @@ An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support al
 1. `Frontend`: HTML, CSS, Javascript, Bootstrap.
 2. `Backend`: PHP.
 3. `Database`: MySQL.
+
+# Deployment:
+1.This application is been hosted on a free hosting platform called `infintyfree`.
