@@ -1,5 +1,5 @@
 # Walkover Quiz
-An nnline quiz system built on PHP, JS and HTML. It has inbuilt Timer support along with Admin Panel
+An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support along with Admin Panel
 
 # Features: 
 
@@ -22,21 +22,16 @@ An nnline quiz system built on PHP, JS and HTML. It has inbuilt Timer support al
 6. Use the "User Panel" to login to User Panel. Default user - "User1" pass- "1234567". 
 
 # CI/CD Setup:
+1. Create a GitHub repository. You may initialize it with a README, license, .gitignore.
+2. Then do a git clone of your repository, or simply download the zip file of your repository from GitHub and extract it.
+3. Copy this project in the new folder created after cloning.
+4. Add all the changes you want.
+5. Then execute these commands.
+   `git add . 
 
-1.Create a GitHub repository. You may initialize it with a README, license, .gitignore.
-2.Then do a git clone of your repository, or simply download the zip file of your repository from GitHub and extract it.
-3.Copy the project in the new folder created after cloning.
+    git commit -m "[mandatory commit message]" 
 
-Add all the changes you want.
-
-Then execute these commands:
-
-`git add . 
-
-git commit -m "[mandatory commit message]" 
-
-git push [url to your repository] master/main `
-4.Now your commit will be successfully pushed to the main branch of your GitHub repository.
-
+    git push [url to your repository] master/main`.
+6. Now your commit will be successfully pushed to the main branch of your GitHub repository.
 
 
