@@ -239,7 +239,7 @@ if (isset($_SESSION['username']) && (!isset($_SESSION['key']))) {
                   <option value="MECH" <?php
                                         if ($_GET['branch'] == "MECH")
                                           echo "selected";
-                                        ?>>Mechanical Engineering</option>
+                                        ?>>Mechanical Engineerin</option>
                 </select>
 
               </div>
