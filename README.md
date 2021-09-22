@@ -5,7 +5,7 @@ Deployed Version - http://walkover-quiz.epizy.com/
 
 # Features: 
 
-1. Added control to "Enable" and "Disable" the quiz on the Admin panel
+1. Added control to "Enable" and "Disable" the quiz on the Admin panel.
 2. Added Timer support.
 3. Added control to navigate among all the questions of quiz (during the quiz) and finish the quiz whenever the user wants.
 4. Added control so that user can start the quiz at any time and continue the quiz even if some error or session timeout occurs.
@@ -44,3 +44,6 @@ Deployed Version - http://walkover-quiz.epizy.com/
 
 # Deployment:
 1.This application is been hosted on a free hosting platform called `infintyfree`.
+
+# Team:
+`Tabish, Sneh and Mahtab`
