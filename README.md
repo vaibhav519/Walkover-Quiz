@@ -12,6 +12,9 @@ Deployed Version - http://walkover-quiz.epizy.com/
 5. Added control to store the answers to question and show a detailed analysis of the quiz results.
 6. Added a feedback section so that user can give some feedback when they face some issue.
 7. Added registeration form with validation, before login user has to register themself.
+8. Overall score will be displayed on the leaderboard section based on all the scroes of a particular quiz that a user take.
+9. Admin can assigned negative marking to the quiz.
+10. Admin can add or remove a particular quiz.
 
 # Setup:
 
@@ -42,7 +45,7 @@ Deployed Version - http://walkover-quiz.epizy.com/
 6. Now your commit will be successfully pushed to the main branch of your GitHub repository.
 
 # Tech Stack Used:
-1. `Frontend`: HTML, CSS, Javascript, Bootstrap.
+1. `Frontend`: HTML, CSS, Javascript, Jquery Bootstrap.
 2. `Backend`: PHP.
 3. `Database`: MySQL.
 
@@ -50,4 +53,6 @@ Deployed Version - http://walkover-quiz.epizy.com/
 1.This application is been hosted on a free hosting platform called `infintyfree`.
 
 # Team:
-`Tabish, Sneh and Mahtab`
+`Tabish` - https://github.com/MOHAMMAD-TABISH
+`Sneh` - https://github.com/JoshiSneh
+`Mahtab` - 
