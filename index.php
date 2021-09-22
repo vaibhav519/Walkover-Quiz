@@ -7,8 +7,8 @@ if (isset($_SESSION['username']) && (!isset($_SESSION['key']))) {
 } else {
 }
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 
 <head>
   <link rel="icon" href="favicon.ico" type="image/icon" sizes="16x16">
@@ -152,7 +152,7 @@ if (isset($_SESSION['username']) && (!isset($_SESSION['key']))) {
               <label class="col-md-12 control-label" for="name"></label>
               <div class="col-md-12">
                 <h3 align="center">Registration Form</h3>
-
+                <p style="font-weight:bolder;font-size:14px;text-align:center;color:red;">( Range of YY will vary from 12 to 16 )</p>
               </div>
             </div>
 
