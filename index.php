@@ -240,14 +240,6 @@ if (isset($_SESSION['username']) && (!isset($_SESSION['key']))) {
                                         if ($_GET['branch'] == "MECH")
                                           echo "selected";
                                         ?>>Mechanical Engineering</option>
-                  <option value="BIOTECH" <?php
-                                          if ($_GET['branch'] == "BIOTECH")
-                                            echo "selected";
-                                          ?>>Biotechnology</option>
-                  <option value="IMSC" <?php
-                                        if ($_GET['branch'] == "IMSC")
-                                          echo "selected";
-                                        ?>>Integrated MSc</option>
                 </select>
 
               </div>
