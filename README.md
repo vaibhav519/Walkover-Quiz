@@ -15,6 +15,7 @@ Deployed Version - http://walkover-quiz.epizy.com/
 8. Overall score will be displayed on the leaderboard section based on all the scroes of a particular quiz that a user take.
 9. Admin can assigned negative marking to the quiz.
 10. Admin can add or remove a particular quiz.
+11. Admin can set timer by there own its not same for every quiz.
 
 # Setup:
 
