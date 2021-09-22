@@ -27,11 +27,7 @@ An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support al
 3. Copy this project in the new folder created after cloning.
 4. Add all the changes you want.
 5. Then execute these commands.
-   `git add . 
-
-    git commit -m "[mandatory commit message]" 
-
-    git push [url to your repository] master/main`.
+   `git add.`
 6. Now your commit will be successfully pushed to the main branch of your GitHub repository.
 
 
