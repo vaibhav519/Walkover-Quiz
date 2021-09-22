@@ -11,7 +11,7 @@ Deployed Version - http://walkover-quiz.epizy.com/
 4. Added control so that user can start the quiz at any time and continue the quiz even if some error or session timeout occurs.
 5. Added control to store the answers to question and show a detailed analysis of the quiz results.
 6. Added a feedback section so that user can give some feedback when they face some issue.
-7. Added registeration form, before login user has to register themself.
+7. Added registeration form with validation, before login user has to register themself.
 
 # Setup:
 
