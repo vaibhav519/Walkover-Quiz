@@ -1,7 +1,7 @@
 # Walkover Quiz
 An nnline quiz system built on PHP, JS and HTML. It has inbuilt Timer support along with Admin Panel
 
-# Added features: 
+# Features: 
 
 1. Added control to "Enable" and "Disable" the quiz on the Admin panel
 2. Added Timer support.
@@ -13,14 +13,30 @@ An nnline quiz system built on PHP, JS and HTML. It has inbuilt Timer support al
 
 # Setup:
 
-1. Clone the repository in your local system.`git clone - https://github.com/JoshiSneh/Walkover-Quiz.git.`
+1. Clone the repository in your local system.
+`git clone - https://github.com/JoshiSneh/Walkover-Quiz.git.`
 2. Create a new database in MySQL using phpmyadmin.
 3. Import the databse that has been provided with this repository and run the query.
 4. Open the file "dbConnection.php" and change the Server name, Username, Password and Database name.
 5. Visit the home page in browser. Use the "Admin Login" link to login to Admin Panel. Default user - 'admin' pass - 'admin123'. 
 6. Use the "User Panel" to login to User Panel. Default user - "User1" pass- "1234567". 
 
-# How to Use
+# CI/CD Setup:
+
+1.Create a GitHub repository. You may initialize it with a README, license, .gitignore.
+2.Then do a git clone of your repository, or simply download the zip file of your repository from GitHub and extract it.
+3.Copy the project in the new folder created after cloning.
+
+Add all the changes you want.
+
+Then execute these commands:
+
+`git add . 
+
+git commit -m "[mandatory commit message]" 
+
+git push [url to your repository] master/main `
+4.Now your commit will be successfully pushed to the main branch of your GitHub repository.
 
 
 
