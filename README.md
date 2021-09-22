@@ -18,10 +18,14 @@ Deployed Version - http://walkover-quiz.epizy.com/
 1. Clone the repository in your local system.
 `git clone - https://github.com/JoshiSneh/Walkover-Quiz.git.`
 2. Create a new database in MySQL using phpmyadmin.
+ 
 3. Import the databse file that has been provided with this repository and run the query.
+ 
 4. Open the file "dbConnection.php" and change the Server name, Username, Password and Database name according to your config.
-5. Visit the home page in browser. Use the `"Admin Login"` link to login to Admin Panel.` Default user - 'admin' pass - 'admin123'`. 
-6. Use the `"User Panel"` to login to User Panel. `Default user - "User1" pass- "1234567"`. 
+ 
+5. Visit the home page in browser. Use the `"Admin Login"` link to login to Admin Panel` Default user - 'admin' pass - 'admin123'`. 
+
+6. Use the `"User Panel"` to login to User Panel `Default user - "User1" pass- "1234567"`. 
 
 # CI/CD Setup:
 1. Create a GitHub repository. You may initialize it with a README, license, .gitignore.
