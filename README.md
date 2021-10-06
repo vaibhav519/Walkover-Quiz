@@ -41,6 +41,7 @@ Deployed Version - http://walkover-quiz.epizy.com/
 1. This application is been hosted on a free hosting platform called `infintyfree`.
 2. Inside `CPanel` we have to link `Database` using phpmyadmin.
 3. Using `File Manager` of `CPanel` the files were deployed on the server named `htdocs` folder.
+4. Live Project :- http://walkover-quiz.epizy.com/
 
 # Team:
 `Sneh` - https://github.com/JoshiSneh.
