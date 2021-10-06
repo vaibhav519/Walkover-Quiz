@@ -131,11 +131,8 @@
   </div>
   <div class="row footer">
     <div class="col-md-2 box"></div>
-    <div class="col-md-6 box">
-      <span href="#" data-target="#login" style="color:lightyellow;font-weight:bolder;">Made By:- Tabish, Sneh and Mahtab<br><br></span>
-    </div>
     <div class="col-md-2 box">
-      <span href="feedback.php" style="color:lightyellow;font-weight:bolder;" onmouseover="this.style('color:yellow')">Feedback</span>
+      <span href="feedback.php" style="color:lightyellow;font-weight:bolder;" onmouseover="this.style('color:yellow')">Feedback</span><br>
     </div>
   </div>
 </body>
