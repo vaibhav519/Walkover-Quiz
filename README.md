@@ -31,19 +31,6 @@ Deployed Version - http://walkover-quiz.epizy.com/
 
 6. Use the `"User Panel"` to login to User Panel `Default user - "User1" pass- "1234567"`. 
 
-# CI/CD Setup:
-1. Create a GitHub repository. You may initialize it with a README, license, .gitignore.
-2. Then do a git clone of your repository, or simply download the zip file of your repository from GitHub and extract it.
-3. Copy this project in the new folder created after cloning.
-4. Add all the changes you want.
-5. Then execute these commands.
-
-   `git add.`
-   
-    `git commit -m "[Enter the message you want]".`
-    
-    `git push [url to your repository] main.`
-6. Now your commit will be successfully pushed to the main branch of your GitHub repository.
 
 # Tech Stack Used:
 1. `Frontend`: HTML, CSS, Javascript, Jquery Bootstrap.
@@ -51,7 +38,9 @@ Deployed Version - http://walkover-quiz.epizy.com/
 3. `Database`: MySQL.
 
 # Deployment:
-1.This application is been hosted on a free hosting platform called `infintyfree`.
+1. This application is been hosted on a free hosting platform called `infintyfree`.
+2. Inside `CPanel` we have to link `Database` using phpmyadmin.
+3. Using `File Manager` of `CPanel` the files were deployed on the server named `htdocs` folder.
 
 # Team:
 `Sneh` - https://github.com/JoshiSneh.
