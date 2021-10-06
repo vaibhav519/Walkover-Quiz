@@ -58,4 +58,4 @@ Deployed Version - http://walkover-quiz.epizy.com/
 
 `Sneh` - https://github.com/JoshiSneh.
 
-`Mahtab` - https://github.com/MahtabNoor/
+`Aditi` - https://github.com/aditijain1511
