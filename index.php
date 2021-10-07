@@ -295,7 +295,7 @@ if (isset($_SESSION['username']) && (!isset($_SESSION['key']))) {
   </div>
   <div class="row footer">
     <div class="col-md-2 box">
-      <a href="#" data-toggle="modal" data-target="#login" style="color:lightyellow;font-weight:bolder;">Admin Login</a><br>
+      <a href="#" data-toggle="modal" data-target="#login" style="color:lightyellow;font-weight:bolder;">Admin Login</a><br><br>
     </div>
     <div class="col-md-2 box">
       <a href="feedback.php" style="color:lightyellow;font-weight:bolder;" onmouseover="this.style('color:yellow')" target="new">Feedback</a>
