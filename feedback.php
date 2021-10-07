@@ -131,7 +131,7 @@
   </div>
   <div class="row footer">
     <div class="col-md-2 box"></div>
-    <div class="col-md-2 box">
+    <div class="col-md-12 box">
       <span href="feedback.php" style="color:lightyellow;font-weight:bolder;" onmouseover="this.style('color:yellow')">Feedback</span><br>
     </div>
   </div>
