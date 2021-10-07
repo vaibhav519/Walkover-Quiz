@@ -573,9 +573,7 @@ if (@$_GET['q'] == 3) {
 </div></div></div></div>
 <div class="row footer">
  <div class="col-md-2 box"></div>
-<div class="col-md-6 box">
-<span href="#" data-target="#login" style="color:lightyellow;font-weight:bolder;">Made By:- Tabish, Sneh and Mahatab<br><br></span></div>
-<div class="col-md-2 box">
+<div class="col-md-12 box">
 <a href="feedback.php" style="color:lightyellow;font-weight:bolder;" onmouseover="this.style('color:yellow')" target="new">Feedback</a></div>
 
 </body>
