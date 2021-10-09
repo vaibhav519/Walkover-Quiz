@@ -3,6 +3,12 @@ An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support al
 
 Deployed Version - http://walkover-quiz.epizy.com/
 
+# Video:
+
+
+https://user-images.githubusercontent.com/84400764/136671211-c254daf2-55c4-4247-88eb-9eee3f2ae6ce.mp4
+
+
 # Features: 
 
 1. Added control to "Enable" and "Disable" the quiz on the Admin panel.
